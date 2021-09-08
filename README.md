@@ -1,9 +1,22 @@
-### Hi there 👋
 
-<!--
-**JorgeJMarroquin/JorgeJMarroquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jorge J. Marroquin! 👋
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a full stack developer...
+
+  
+### 🛠 Skills
+Javascript, HTML, CSS...
+
+  
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+Here is more about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+  
