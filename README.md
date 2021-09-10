@@ -1,6 +1,7 @@
 
-# Hi, I'm Jorge J. Marroquin! 👋
-![me again](https://user-images.githubusercontent.com/70856584/132790013-ccd82672-51eb-4989-b776-2090c977899c.jpg)
+# Hi, I'm Jorge J. Marroquin! 👋 
+  ![meSmilling](https://user-images.githubusercontent.com/70856584/132791280-8ec093dd-219f-4eb2-816e-f1a444f409b6.jpg)
+
 
 ### 🚀 About Me
 I am a computer programmer who loves to learn new skills of any kind, as long as they can be beneficial to others and to me. Music, business, exercise, nutrition, reading, history, math, I love learning about all of these if I can eventually make them my hobbies.
