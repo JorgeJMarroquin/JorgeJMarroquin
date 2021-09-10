@@ -1,31 +1,42 @@
 
 # Hi, I'm Jorge J. Marroquin! 👋
+![me again](https://user-images.githubusercontent.com/70856584/132790013-ccd82672-51eb-4989-b776-2090c977899c.jpg)
 
 ### 🚀 About Me
-I'm a full stack developer...
+I am a computer programmer who loves to learn new skills of any kind, as long as they can be beneficial to others and to me. Music, business, exercise, nutrition, reading, history, math, I love learning about all of these if I can eventually make them my hobbies.
 
   
-### 🛠 Skills
-Javascript, HTML, CSS...
+## Skills
+### Programming :computer:
+- JavaScript
+- CSS/SCSS
+- HTML
+- jQuery
+- Linux shell
+- VBA
 
-  
-## Acknowledgements
+### Sports :soccer:
+- Soccer
+- Basketball
+- MMA fighter
+- Swimmer
+- Golf
+- Volleyball
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+### Musical Instruments :saxophone:
+- Saxophone
+- Guitar
+- Piano
 
 
 Here is more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a virtual chat that will responde to our customers at work.
+- 🌱 I’m currently learning JavaScript.
+- 📫 You can reach me at jorgemarroquin17@gmail.com.
+- ⚡ Fun fact: The basketball player Michael Jordan and I have the same birthday.
+
+![Have-A-Great-Weekend](https://user-images.githubusercontent.com/70856584/132790226-4c63d026-1f5f-436d-8588-9dc12bf8d64a.jpg)
 
 
 
