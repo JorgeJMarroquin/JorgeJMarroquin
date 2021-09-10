@@ -1,6 +1,6 @@
 
 # Hi, I'm Jorge J. Marroquin! 👋 
-  ![meSmilling](https://user-images.githubusercontent.com/70856584/132791280-8ec093dd-219f-4eb2-816e-f1a444f409b6.jpg)
+  
 
 
 ### 🚀 About Me
@@ -39,6 +39,8 @@ Here is more about me:
 
 ![Have-A-Great-Weekend](https://user-images.githubusercontent.com/70856584/132790226-4c63d026-1f5f-436d-8588-9dc12bf8d64a.jpg)
 
+
+![meSmilling](https://user-images.githubusercontent.com/70856584/132791280-8ec093dd-219f-4eb2-816e-f1a444f409b6.jpg)
 
 
 
